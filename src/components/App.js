@@ -1,5 +1,6 @@
 import React from 'react'
 import PostList from './PostList'
+import '../style/style/App.css'
 
 const App = () => {
 
